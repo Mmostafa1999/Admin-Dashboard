@@ -26,7 +26,7 @@ Currently, two official plugins are available:
 
 ![DashBoard](screenshots/dashboard.png)
 
-![DashBoard](screenshots/dashboard-light.png)
+![DashBoard-light](screenshots/dashboard-light.png)
 
 ![Team Page](screenshots/team.png)
 
@@ -36,10 +36,10 @@ Currently, two official plugins are available:
 
 ![Form Page](screenshots/form.png)
 
-![Bar Chart Page](screenshots/bar.png)
+![Bar Page](screenshots/bar.png)
 
-![Line Chart Page](screenshots/line.png)
+![Line Page](screenshots/line.png)
 
-![Pie Chart Page](screenshots/pie.png)
+![Pie Page](screenshots/pie.png)
 
 ![Geography Page](screenshots/geo-chart.png)
