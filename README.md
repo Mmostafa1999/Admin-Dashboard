@@ -43,3 +43,25 @@ Currently, two official plugins are available:
 ![Pie Page](screenshots/pie-chart.png)
 
 ![Geography Page](screenshots/geo-chart.png)
+
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mmostafa1999/Todo-list.git
+
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Run the development server:
+   ```bash
+   npm run dev
+
+Feel free to contribute or report issues!
+
+## Contact
+- [Author](https://github.com/Mmostafa1999)
+- [Email](mahmoud.mostafa4467@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/mahmoud-mustafa-642434188/)
