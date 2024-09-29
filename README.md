@@ -14,11 +14,11 @@ Currently, two official plugins are available:
 - [Contact](#contact)
   
 ## Technologies Used
-1. **React:** Utilized for building the frontend interface, providing dynamic and interactive components.
-2. **Vite:** Employed as the build tool to optimize and bundle the project for production.
-3. **Material UI:** Leveraged for pre-designed components and UI elements, facilitating rapid development and maintaining consistency in design.
-4. **React Router DOM:** Utilized for managing application routing, enabling dynamic navigation and seamless user experience across different views.
+1. **[React](https://react.dev/learn):** Utilized for building the frontend interface, providing dynamic and interactive components.
+2. **[Vite](https://vitejs.dev/guide/):** Employed as the build tool to optimize and bundle the project for production.
+3. **[Material UI](https://mui.com/material-ui/getting-started/installation/):** Leveraged for pre-designed components and UI elements, facilitating rapid development and maintaining consistency in design.
+4. **[React Router DOM](https://reactrouter.com/):** Utilized for managing application routing, enabling dynamic navigation and seamless user experience across different views.
 5. **[React Hook Form](https://react-hook-form.com/):** Implemented for managing form state and validation, simplifying form handling and enhancing performance with minimal re-renders.
 6. **[Nivo](https://nivo.rocks/):** Employed for creating interactive and responsive charts, providing powerful data visualization capabilities to enhance user insights. 
-7. **FullCalendar:** Integrated for displaying and managing events in a calendar format, enabling users to visualize schedules and appointments easily.
-8. **Firebase:** Utilized for hosting and deploying the project, providing a reliable platform for delivering the application to users.
+7. **[FullCalendar](https://fullcalendar.io/):** Integrated for displaying and managing events in a calendar format, enabling users to visualize schedules and appointments easily.
+8. **[Firebase](https://firebase.google.com/?hl=en):** Utilized for hosting and deploying the project, providing a reliable platform for delivering the application to users.
