@@ -24,7 +24,9 @@ Currently, two official plugins are available:
 
 ## Screenshot
 
-![DashBoard](screenshots/dashboard.png)(screenshots/dashboard-light.png)
+![DashBoard](screenshots/dashboard.png)
+
+![DashBoard](screenshots/dashboard-light.png)
 
 ![Team Page](screenshots/team.png)
 
