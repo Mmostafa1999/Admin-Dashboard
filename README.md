@@ -7,10 +7,9 @@ Currently, two official plugins are available:
 
 ## Table of Contents
 
-- [Features](#features)
+- [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
 - [Installation](#Installation)
-- [Technologies Used](#technologies-used)
 - [Contact](#contact)
   
 ## Technologies Used
@@ -22,3 +21,23 @@ Currently, two official plugins are available:
 6. **[Nivo](https://nivo.rocks/):** Employed for creating interactive and responsive charts, providing powerful data visualization capabilities to enhance user insights. 
 7. **[FullCalendar](https://fullcalendar.io/):** Integrated for displaying and managing events in a calendar format, enabling users to visualize schedules and appointments easily.
 8. **[Firebase](https://firebase.google.com/?hl=en):** Utilized for hosting and deploying the project, providing a reliable platform for delivering the application to users.
+
+## Screenshot
+
+![DashBoard](screenshots/dashboard.png)(screenshots/dashboard-light.png)
+
+![Team Page](screenshots/team.png)
+
+![Contacts Page](screenshots/contacts.png)
+
+![Calender Page](screenshots/calender.png)
+
+![Form Page](screenshots/form.png)
+
+![Bar Chart Page](screenshots/bar.png)
+
+![Line Chart Page](screenshots/line.png)
+
+![Pie Chart Page](screenshots/pie.png)
+
+![Geography Page](screenshots/geo-chart.png)
