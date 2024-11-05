@@ -1,4 +1,4 @@
-# Todo-list Application 🙌
+# Admin Dashboard Application 🙌
 
 Admin Dashboard website is a frontend application built using React with Vite as the bundler. It incorporates Material UI for components, offering a sleek and modern user interface. This dashboard simplifies data handling while offering flexibility and scalability, streamline user management and data administration tasks. In addition to that dynamic table and charts views, and filtering options, this dashboard is an essential tool for efficient resource management Furthermore.
 Currently, two official plugins are available:
